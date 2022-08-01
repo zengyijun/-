@@ -1,0 +1,312 @@
+2022-06-25 11:01:15,219 : WARNING--connection faild, trying reconect
+2022-06-25 11:01:15,219 : INFO--successfuly connected to nearby car
+2022-06-25 11:01:15,556 : INFO--send file head to another car
+2022-06-25 11:01:15,738 : INFO--send success
+2022-06-25 11:01:15,786 : INFO--sending md5 for check
+2022-06-25 11:01:16,188 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:01:16,512 : INFO--send file head to another car
+2022-06-25 11:01:16,691 : INFO--send success
+2022-06-25 11:01:16,736 : INFO--sending md5 for check
+2022-06-25 11:01:17,109 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:01:17,434 : INFO--send file head to another car
+2022-06-25 11:01:17,624 : INFO--send success
+2022-06-25 11:01:17,640 : INFO--sending md5 for check
+2022-06-25 11:01:18,010 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:01:18,334 : INFO--send file head to another car
+2022-06-25 11:01:18,528 : INFO--send success
+2022-06-25 11:01:18,544 : INFO--sending md5 for check
+2022-06-25 11:01:18,922 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:01:19,296 : INFO--send file head to another car
+2022-06-25 11:01:19,463 : INFO--send success
+2022-06-25 11:01:19,538 : INFO--sending md5 for check
+2022-06-25 11:01:19,898 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:01:20,229 : INFO--send file head to another car
+2022-06-25 11:01:20,434 : INFO--send success
+2022-06-25 11:01:20,509 : INFO--sending md5 for check
+2022-06-25 11:01:20,863 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:01:21,188 : INFO--send file head to another car
+2022-06-25 11:01:21,429 : INFO--send success
+2022-06-25 11:01:21,469 : INFO--sending md5 for check
+2022-06-25 11:01:21,835 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:01:22,161 : INFO--send file head to another car
+2022-06-25 11:01:22,352 : INFO--send success
+2022-06-25 11:01:22,400 : INFO--sending md5 for check
+2022-06-25 11:01:22,771 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:01:23,114 : INFO--send file head to another car
+2022-06-25 11:01:23,312 : INFO--send success
+2022-06-25 11:01:23,376 : INFO--sending md5 for check
+2022-06-25 11:01:23,738 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:01:24,104 : INFO--send file head to another car
+2022-06-25 11:04:20,792 : WARNING--connection faild, trying reconect
+2022-06-25 11:04:20,792 : INFO--successfuly connected to nearby car
+2022-06-25 11:04:21,130 : INFO--send file head to another car
+2022-06-25 11:04:21,361 : INFO--send success
+2022-06-25 11:04:21,403 : INFO--sending md5 for check
+2022-06-25 11:04:21,762 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:05:01,843 : WARNING--connection faild, trying reconect
+2022-06-25 11:05:01,843 : INFO--successfuly connected to nearby car
+2022-06-25 11:05:02,183 : INFO--send file head to another car
+2022-06-25 11:05:02,449 : INFO--send success
+2022-06-25 11:05:02,501 : INFO--sending md5 for check
+2022-06-25 11:05:02,859 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:10:11,545 : WARNING--connection faild, trying reconect
+2022-06-25 11:10:11,546 : INFO--successfuly connected to nearby car
+2022-06-25 11:10:11,896 : INFO--send file head to another car
+2022-06-25 11:10:12,078 : INFO--send success
+2022-06-25 11:10:12,151 : INFO--sending md5 for check
+2022-06-25 11:10:12,598 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:12:31,066 : WARNING--connection faild, trying reconect
+2022-06-25 11:12:31,066 : INFO--successfuly connected to nearby car
+2022-06-25 11:12:31,408 : INFO--send file head to another car
+2022-06-25 11:12:31,591 : INFO--send success
+2022-06-25 11:12:31,640 : INFO--sending md5 for check
+2022-06-25 11:12:31,996 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:14:27,485 : WARNING--connection faild, trying reconect
+2022-06-25 11:14:27,485 : INFO--successfuly connected to nearby car
+2022-06-25 11:14:27,822 : INFO--send file head to another car
+2022-06-25 11:14:28,055 : INFO--send success
+2022-06-25 11:14:28,118 : INFO--sending md5 for check
+2022-06-25 11:14:28,474 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:15:13,633 : WARNING--connection faild, trying reconect
+2022-06-25 11:15:13,633 : INFO--successfuly connected to nearby car
+2022-06-25 11:15:13,978 : INFO--send file head to another car
+2022-06-25 11:15:14,219 : INFO--send success
+2022-06-25 11:15:14,257 : INFO--sending md5 for check
+2022-06-25 11:15:14,619 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:16:20,231 : WARNING--connection faild, trying reconect
+2022-06-25 11:16:20,232 : INFO--successfuly connected to nearby car
+2022-06-25 11:16:20,563 : INFO--send file head to another car
+2022-06-25 11:16:20,730 : INFO--send success
+2022-06-25 11:16:20,765 : INFO--sending md5 for check
+2022-06-25 11:16:21,122 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:18:12,811 : WARNING--connection faild, trying reconect
+2022-06-25 11:18:12,812 : INFO--successfuly connected to nearby car
+2022-06-25 11:18:13,217 : INFO--send file head to another car
+2022-06-25 11:18:13,398 : INFO--send success
+2022-06-25 11:18:13,415 : INFO--sending md5 for check
+2022-06-25 11:18:13,805 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:19:29,702 : WARNING--connection faild, trying reconect
+2022-06-25 11:19:29,703 : INFO--successfuly connected to nearby car
+2022-06-25 11:19:30,036 : INFO--send file head to another car
+2022-06-25 11:19:30,203 : INFO--send success
+2022-06-25 11:19:30,259 : INFO--sending md5 for check
+2022-06-25 11:19:30,684 : ERROR--faild to send file for wrong md5, already resend
+2022-06-25 11:22:29,253 : WARNING--connection faild, trying reconect
+2022-06-25 11:22:29,254 : INFO--successfuly connected to nearby car
+2022-06-25 11:22:29,591 : INFO--send file head to another car
+2022-06-25 11:22:29,776 : INFO--send success
+2022-06-25 11:22:29,792 : INFO--sending md5 for check
+2022-06-25 11:22:30,158 : INFO--already ask another car to send file
+2022-06-25 19:42:09,728 : WARNING--connection faild, trying reconect
+2022-06-25 19:42:09,739 : INFO--successfuly connected to nearby car
+2022-06-25 19:42:10,246 : INFO--send file head to another car
+2022-06-25 19:42:10,477 : INFO--send success
+2022-06-25 19:42:10,524 : INFO--sending md5 for check
+2022-06-25 19:42:10,954 : INFO--already ask another car to send file
+2022-06-25 19:42:11,221 : INFO--successfuly connected to nearby car
+2022-06-25 19:42:36,213 : INFO--successfuly connected to nearby car
+2022-06-25 19:42:37,002 : INFO--successfuly connected to nearby car
+2022-06-25 19:47:37,409 : WARNING--connection faild, trying reconect
+2022-06-25 19:47:37,420 : INFO--successfuly connected to nearby car
+2022-06-25 19:47:37,921 : INFO--send file head to another car
+2022-06-25 19:47:38,141 : INFO--send success
+2022-06-25 19:47:38,193 : INFO--sending md5 for check
+2022-06-25 19:47:38,617 : INFO--already ask another car to send file
+2022-06-25 19:47:38,882 : INFO--successfuly connected to nearby car
+2022-06-25 19:51:12,117 : INFO--successfuly connected to nearby car
+2022-06-25 19:51:12,992 : INFO--successfuly connected to nearby car
+2022-06-25 19:52:31,780 : WARNING--connection faild, trying reconect
+2022-06-25 19:52:31,791 : INFO--successfuly connected to nearby car
+2022-06-25 19:52:32,297 : INFO--send file head to another car
+2022-06-25 19:52:32,505 : INFO--send success
+2022-06-25 19:52:32,585 : INFO--sending md5 for check
+2022-06-25 19:52:33,000 : INFO--already ask another car to send file
+2022-06-25 19:52:34,291 : INFO--successfuly connected to nearby car
+2022-06-25 19:52:59,330 : INFO--successfuly connected to nearby car
+2022-06-25 19:53:01,178 : INFO--successfuly connected to nearby car
+2022-06-25 19:53:29,095 : INFO--successfuly connected to nearby car
+2022-06-25 19:53:30,972 : INFO--successfuly connected to nearby car
+2022-06-25 19:53:58,943 : INFO--successfuly connected to nearby car
+2022-06-25 19:54:00,865 : INFO--successfuly connected to nearby car
+2022-06-25 20:01:34,635 : INFO--successfuly connected to nearby car
+2022-06-25 20:01:41,818 : INFO--successfuly connected to nearby car
+2022-06-25 20:02:28,229 : INFO--successfuly connected to nearby car
+2022-06-25 20:05:03,224 : INFO--successfuly connected to nearby car
+2022-06-25 20:05:10,261 : INFO--successfuly connected to nearby car
+2022-06-25 20:06:00,946 : INFO--successfuly connected to nearby car
+2022-06-25 20:06:02,821 : INFO--successfuly connected to nearby car
+2022-06-25 20:07:39,037 : INFO--successfuly connected to nearby car
+2022-06-25 20:07:40,913 : INFO--successfuly connected to nearby car
+2022-06-25 20:07:44,706 : INFO--successfuly connected to nearby car
+2022-06-25 20:07:46,533 : INFO--successfuly connected to nearby car
+2022-06-25 20:20:19,813 : WARNING--connection faild, trying reconect
+2022-06-25 20:20:19,848 : INFO--successfuly connected to nearby car
+2022-06-25 20:20:21,681 : WARNING--connection faild, trying reconect
+2022-06-25 20:20:21,703 : INFO--successfuly connected to nearby car
+2022-06-25 20:21:36,675 : WARNING--connection faild, trying reconect
+2022-06-25 20:21:36,711 : INFO--successfuly connected to nearby car
+2022-06-25 20:21:38,723 : WARNING--connection faild, trying reconect
+2022-06-25 20:21:38,745 : INFO--successfuly connected to nearby car
+2022-06-25 20:23:34,458 : WARNING--connection faild, trying reconect
+2022-06-25 20:23:34,479 : INFO--successfuly connected to nearby car
+2022-06-25 20:23:36,478 : WARNING--connection faild, trying reconect
+2022-06-25 20:23:36,504 : INFO--successfuly connected to nearby car
+2022-06-25 20:23:44,691 : WARNING--connection faild, trying reconect
+2022-06-25 20:23:44,713 : INFO--successfuly connected to nearby car
+2022-06-25 20:23:46,738 : WARNING--connection faild, trying reconect
+2022-06-25 20:23:46,764 : INFO--successfuly connected to nearby car
+2022-06-25 20:24:29,498 : WARNING--connection faild, trying reconect
+2022-06-25 20:24:29,520 : INFO--successfuly connected to nearby car
+2022-06-25 20:24:31,463 : WARNING--connection faild, trying reconect
+2022-06-25 20:24:31,489 : INFO--successfuly connected to nearby car
+2022-06-25 20:25:10,600 : WARNING--connection faild, trying reconect
+2022-06-25 20:25:10,601 : INFO--successfuly connected to nearby car
+2022-06-25 20:27:32,656 : WARNING--connection faild, trying reconect
+2022-06-25 20:27:32,682 : INFO--successfuly connected to nearby car
+2022-06-25 20:29:12,400 : WARNING--connection faild, trying reconect
+2022-06-25 20:29:12,431 : INFO--successfuly connected to nearby car
+2022-06-25 20:32:50,022 : WARNING--connection faild, trying reconect
+2022-06-25 20:32:50,038 : INFO--successfuly connected to nearby car
+2022-06-25 20:32:50,553 : INFO--send file head to another car
+2022-06-25 20:32:50,832 : INFO--send success
+2022-06-25 20:32:50,943 : INFO--sending md5 for check
+2022-06-25 20:35:49,096 : INFO--successfuly connected to nearby car
+2022-06-25 20:36:54,470 : WARNING--connection faild, trying reconect
+2022-06-25 20:36:54,481 : INFO--successfuly connected to nearby car
+2022-06-25 20:36:54,989 : INFO--send file head to another car
+2022-06-25 20:36:55,202 : INFO--send success
+2022-06-25 20:36:55,244 : INFO--sending md5 for check
+2022-06-25 20:36:55,686 : INFO--already ask another car to send file
+2022-06-25 20:39:15,321 : WARNING--connection faild, trying reconect
+2022-06-25 20:39:15,332 : INFO--successfuly connected to nearby car
+2022-06-25 20:39:15,834 : INFO--send file head to another car
+2022-06-25 20:39:16,111 : INFO--send success
+2022-06-25 20:39:16,153 : INFO--sending md5 for check
+2022-06-25 20:39:16,604 : INFO--already ask another car to send file
+2022-06-25 20:39:17,887 : INFO--successfuly connected to nearby car
+2022-06-25 20:44:19,919 : WARNING--connection faild, trying reconect
+2022-06-25 20:44:19,920 : INFO--successfuly connected to nearby car
+2022-06-25 20:44:20,429 : INFO--send file head to another car
+2022-06-25 20:44:20,675 : INFO--send success
+2022-06-25 20:44:20,727 : INFO--sending md5 for check
+2022-06-25 20:44:21,170 : INFO--already ask another car to send file
+2022-06-25 20:44:21,523 : WARNING--connection faild, trying reconect
+2022-06-25 20:44:21,533 : INFO--successfuly connected to nearby car
+2022-06-25 20:44:22,072 : INFO--send file head to another car
+2022-06-25 20:44:22,315 : INFO--send success
+2022-06-25 20:44:22,362 : INFO--sending md5 for check
+2022-06-25 20:44:22,847 : INFO--already ask another car to send file
+2022-06-25 20:51:18,518 : WARNING--connection faild, trying reconect
+2022-06-25 20:51:18,534 : INFO--successfuly connected to nearby car
+2022-06-25 20:51:19,055 : INFO--send file head to another car
+2022-06-25 20:51:19,308 : INFO--send success
+2022-06-25 20:51:19,356 : INFO--sending md5 for check
+2022-06-25 20:51:19,814 : INFO--already ask another car to send file
+2022-06-25 20:51:20,165 : WARNING--connection faild, trying reconect
+2022-06-25 20:51:20,181 : INFO--successfuly connected to nearby car
+2022-06-25 20:51:20,704 : INFO--send file head to another car
+2022-06-25 20:51:20,925 : INFO--send success
+2022-06-25 20:51:21,008 : INFO--sending md5 for check
+2022-06-25 20:51:21,454 : INFO--already ask another car to send file
+2022-06-25 20:53:59,782 : WARNING--connection faild, trying reconect
+2022-06-25 20:53:59,797 : INFO--successfuly connected to nearby car
+2022-06-25 20:54:00,293 : INFO--send file head to another car
+2022-06-25 20:54:00,580 : INFO--send success
+2022-06-25 20:54:00,622 : INFO--sending md5 for check
+2022-06-25 20:54:01,045 : INFO--already ask another car to send file
+2022-06-25 20:54:01,389 : WARNING--connection faild, trying reconect
+2022-06-25 20:54:01,400 : INFO--successfuly connected to nearby car
+2022-06-25 20:54:01,932 : INFO--send file head to another car
+2022-06-25 20:54:02,190 : INFO--send success
+2022-06-25 20:54:02,227 : INFO--sending md5 for check
+2022-06-25 20:54:02,670 : INFO--already ask another car to send file
+2022-06-25 20:54:29,219 : WARNING--connection faild, trying reconect
+2022-06-25 20:54:29,230 : INFO--successfuly connected to nearby car
+2022-06-25 20:54:29,767 : INFO--send file head to another car
+2022-06-25 20:54:30,006 : INFO--send success
+2022-06-25 20:54:30,068 : INFO--sending md5 for check
+2022-06-25 20:54:30,500 : INFO--already ask another car to send file
+2022-06-25 20:54:30,890 : WARNING--connection faild, trying reconect
+2022-06-25 20:54:30,901 : INFO--successfuly connected to nearby car
+2022-06-25 20:54:31,434 : INFO--send file head to another car
+2022-06-25 20:54:31,692 : INFO--send success
+2022-06-25 20:54:31,811 : INFO--sending md5 for check
+2022-06-25 20:54:32,242 : INFO--already ask another car to send file
+2022-06-25 20:55:00,070 : WARNING--connection faild, trying reconect
+2022-06-25 20:55:00,081 : INFO--successfuly connected to nearby car
+2022-06-25 20:55:00,609 : INFO--send file head to another car
+2022-06-25 20:55:00,872 : INFO--send success
+2022-06-25 20:55:00,914 : INFO--sending md5 for check
+2022-06-25 20:55:01,324 : INFO--already ask another car to send file
+2022-06-25 20:55:01,785 : WARNING--connection faild, trying reconect
+2022-06-25 20:55:01,796 : INFO--successfuly connected to nearby car
+2022-06-25 20:55:02,351 : INFO--send file head to another car
+2022-06-25 20:55:02,576 : INFO--send success
+2022-06-25 20:55:02,622 : INFO--sending md5 for check
+2022-06-25 20:55:03,047 : INFO--already ask another car to send file
+2022-06-25 20:57:04,080 : WARNING--connection faild, trying reconect
+2022-06-25 20:57:04,090 : INFO--successfuly connected to nearby car
+2022-06-25 20:57:04,597 : INFO--send file head to another car
+2022-06-25 20:57:04,829 : INFO--send success
+2022-06-25 20:57:04,919 : INFO--sending md5 for check
+2022-06-25 20:57:05,327 : INFO--already ask another car to send file
+2022-06-25 20:57:05,765 : WARNING--connection faild, trying reconect
+2022-06-25 20:57:05,775 : INFO--successfuly connected to nearby car
+2022-06-25 20:57:06,336 : INFO--send file head to another car
+2022-06-25 20:57:06,585 : INFO--send success
+2022-06-25 20:57:06,713 : INFO--sending md5 for check
+2022-06-25 20:57:07,124 : INFO--already ask another car to send file
+2022-06-25 20:57:33,586 : WARNING--connection faild, trying reconect
+2022-06-25 20:57:33,597 : INFO--successfuly connected to nearby car
+2022-06-25 20:57:34,139 : INFO--send file head to another car
+2022-06-25 20:57:34,341 : INFO--send success
+2022-06-25 20:57:34,382 : INFO--sending md5 for check
+2022-06-25 20:57:34,802 : INFO--already ask another car to send file
+2022-06-25 20:57:35,189 : WARNING--connection faild, trying reconect
+2022-06-25 20:57:35,204 : INFO--successfuly connected to nearby car
+2022-06-25 20:57:35,748 : INFO--send file head to another car
+2022-06-25 20:57:35,976 : INFO--send success
+2022-06-25 20:57:36,017 : INFO--sending md5 for check
+2022-06-25 20:57:36,433 : INFO--already ask another car to send file
+2022-06-25 20:58:04,405 : WARNING--connection faild, trying reconect
+2022-06-25 20:58:04,416 : INFO--successfuly connected to nearby car
+2022-06-25 20:58:04,962 : INFO--send file head to another car
+2022-06-25 20:58:05,261 : INFO--send success
+2022-06-25 20:58:05,308 : INFO--sending md5 for check
+2022-06-25 20:58:05,711 : INFO--already ask another car to send file
+2022-06-25 20:58:06,104 : WARNING--connection faild, trying reconect
+2022-06-25 20:58:06,115 : INFO--successfuly connected to nearby car
+2022-06-25 20:58:06,664 : INFO--send file head to another car
+2022-06-25 20:58:06,862 : INFO--send success
+2022-06-25 20:58:06,906 : INFO--sending md5 for check
+2022-06-25 20:58:07,327 : INFO--already ask another car to send file
+2022-06-30 21:01:37,022 : WARNING--connection faild, trying reconect
+2022-06-30 21:01:37,028 : INFO--successfuly connected to nearby car
+2022-06-30 21:01:37,506 : INFO--send file head to another car
+2022-06-30 21:01:37,683 : INFO--send success
+2022-06-30 21:01:37,697 : INFO--sending md5 for check
+2022-06-30 21:01:38,113 : INFO--already ask another car to send file
+2022-06-30 21:02:07,766 : WARNING--connection faild, trying reconect
+2022-06-30 21:02:07,767 : INFO--successfuly connected to nearby car
+2022-06-30 21:02:08,259 : INFO--send file head to another car
+2022-06-30 21:02:08,497 : INFO--send success
+2022-06-30 21:02:08,512 : INFO--sending md5 for check
+2022-06-30 21:02:08,933 : INFO--already ask another car to send file
+2022-06-30 21:02:08,994 : WARNING--connection faild, trying reconect
+2022-06-30 21:02:08,995 : INFO--successfuly connected to nearby car
+2022-06-30 21:02:09,464 : INFO--send file head to another car
+2022-06-30 21:02:09,636 : INFO--send success
+2022-06-30 21:02:09,652 : INFO--sending md5 for check
+2022-06-30 21:02:10,092 : INFO--already ask another car to send file
+2022-06-30 21:02:37,207 : WARNING--connection faild, trying reconect
+2022-06-30 21:02:37,208 : INFO--successfuly connected to nearby car
+2022-06-30 21:02:37,664 : INFO--send file head to another car
+2022-06-30 21:02:37,830 : INFO--send success
+2022-06-30 21:02:37,844 : INFO--sending md5 for check
+2022-06-30 21:02:38,261 : INFO--already ask another car to send file
+2022-06-30 21:02:38,412 : WARNING--connection faild, trying reconect
+2022-06-30 21:02:38,413 : INFO--successfuly connected to nearby car
+2022-06-30 21:02:38,879 : INFO--send file head to another car
+2022-06-30 21:02:39,059 : INFO--send success
+2022-06-30 21:02:39,074 : INFO--sending md5 for check
+2022-06-30 21:02:39,490 : INFO--already ask another car to send file
